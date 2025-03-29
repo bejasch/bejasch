@@ -1,5 +1,4 @@
-# 🖥️ **Software Engineer** | 🎯 **Mathematics & Algorithms** | 🚀 **Fast Learner**
-
+# 🖥️ **Software Engineer** | 🎯 **Algorithms** | 🚀 **Learning** | ⚡ **Creativity**
 📖 Passionate about building efficient, scalable, and high-performance systems. I thrive on solving complex problems, learning at lightning speed, and pushing boundaries. With an academic background in **<a href="https://www.mi.fu-berlin.de/">Mathematics</a>** and hands-on experience from **<a href="https://42berlin.de/">42 Berlin</a>**, I combine theoretical depth with real-world coding expertise.
 
 ## 🔧 **Skills**
@@ -10,7 +9,7 @@
 ## 🔥 **Current Projects**
 - ⚡ **Building a WebSocket-based real-time multiplayer game**
 - 📚 **Exploring fullstack development & system design**
-- 🧠 **Learning Docker, TypeScript Babylon.js**
+- 🧠 **Learning Docker, TypeScript, Babylon.js**
 
 ## 📊 **GitHub Stats**
 
