@@ -1,4 +1,4 @@
-# 🖥️ **Software Engineer** | 🎯 **Algorithms** | 🚀 **Learning** | ⚡ **Creativity**
+# 🖥️ **Software Engineer** | 🚀 **Learning** | ⚡ **Creativity**
 📖 Passionate about building efficient, scalable, and high-performance systems. I thrive on solving complex problems, learning at lightning speed, and pushing boundaries. With an academic background in **<a href="https://www.mi.fu-berlin.de/">Mathematics</a>** and hands-on experience from **<a href="https://42berlin.de/">42 Berlin</a>**, I combine theoretical depth with real-world coding expertise.
 
 ## 🔧 **Skills**
